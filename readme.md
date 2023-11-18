@@ -1,6 +1,6 @@
 ## MealDB App
 
-[Live Link](https://mealdb-react-project.netlify.app/)
+[Live Link](https://meal-react-app3.netlify.app/)
 
 ## My Output
 
